@@ -1,3 +1,3 @@
 # latihan-kolaborasi
-mencoba commit 3
+mencoba commit 1
 --
